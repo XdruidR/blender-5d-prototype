@@ -1,0 +1,59 @@
+[
+  {
+    "cost_code": "CBS-001",
+    "description": "Concrete Substructure (pad footings, blinding, lean mix)",
+    "uom": "m\u00b3",
+    "total_cost": 280000.0,
+    "linked_activities": [
+      "A001"
+    ]
+  },
+  {
+    "cost_code": "CBS-002",
+    "description": "Reinforced Concrete Columns (formwork, rebar, pour, cure)",
+    "uom": "m\u00b3",
+    "total_cost": 420000.0,
+    "linked_activities": [
+      "A002",
+      "A004",
+      "A006"
+    ]
+  },
+  {
+    "cost_code": "CBS-003",
+    "description": "Reinforced Concrete Beams (formwork, rebar, pour, cure)",
+    "uom": "m\u00b3",
+    "total_cost": 360000.0,
+    "linked_activities": [
+      "A003",
+      "A005",
+      "A007"
+    ]
+  },
+  {
+    "cost_code": "CBS-004",
+    "description": "Reinforced Concrete Slabs (formwork, rebar, pour, cure, finish)",
+    "uom": "m\u00b2",
+    "total_cost": 540000.0,
+    "linked_activities": [
+      "A003",
+      "A005",
+      "A007"
+    ]
+  },
+  {
+    "cost_code": "CBS-005",
+    "description": "Formwork, Propping & Shoring (all levels)",
+    "uom": "m\u00b2",
+    "total_cost": 200000.0,
+    "linked_activities": [
+      "A001",
+      "A002",
+      "A003",
+      "A004",
+      "A005",
+      "A006",
+      "A007"
+    ]
+  }
+]

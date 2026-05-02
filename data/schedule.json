@@ -1,0 +1,96 @@
+[
+  {
+    "task_code": "A001",
+    "task_name": "Substructure \u2013 Pad Footings",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-15",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "SUBSTRUCTURE",
+    "wbs_level4": "PKG-FOOTINGS",
+    "cost_codes": [
+      "CBS-001",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A002",
+    "task_name": "Ground Floor \u2013 RC Columns",
+    "start_date": "2026-07-16",
+    "end_date": "2026-08-31",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "GROUND-FLOOR",
+    "wbs_level4": "PKG-COLUMNS-GF",
+    "cost_codes": [
+      "CBS-002",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A003",
+    "task_name": "Ground Floor \u2013 RC Beams and Slab",
+    "start_date": "2026-09-01",
+    "end_date": "2026-10-31",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "GROUND-FLOOR",
+    "wbs_level4": "PKG-FRAME-GF",
+    "cost_codes": [
+      "CBS-003",
+      "CBS-004",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A004",
+    "task_name": "Level 1 \u2013 RC Columns",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-30",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "LEVEL-1",
+    "wbs_level4": "PKG-COLUMNS-L1",
+    "cost_codes": [
+      "CBS-002",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A005",
+    "task_name": "Level 1 \u2013 RC Beams and Slab",
+    "start_date": "2026-12-01",
+    "end_date": "2027-01-31",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "LEVEL-1",
+    "wbs_level4": "PKG-FRAME-L1",
+    "cost_codes": [
+      "CBS-003",
+      "CBS-004",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A006",
+    "task_name": "Level 2 \u2013 RC Columns",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-28",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "LEVEL-2",
+    "wbs_level4": "PKG-COLUMNS-L2",
+    "cost_codes": [
+      "CBS-002",
+      "CBS-005"
+    ]
+  },
+  {
+    "task_code": "A007",
+    "task_name": "Level 2 \u2013 RC Beams and Roof Slab",
+    "start_date": "2027-03-01",
+    "end_date": "2027-04-30",
+    "wbs_level1": "CONSTRUCTION",
+    "wbs_level2": "LEVEL-2",
+    "wbs_level4": "PKG-FRAME-L2",
+    "cost_codes": [
+      "CBS-003",
+      "CBS-004",
+      "CBS-005"
+    ]
+  }
+]
